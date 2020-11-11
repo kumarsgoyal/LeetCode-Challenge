@@ -11,7 +11,7 @@ class Solution {
                 if(A[i][j] == 1)
                     res[i][k++] = 0;
                 else 
-                    res[i][k++] = 1;
+                    res[i][k++] = 1; 
                 
             }
         }
